@@ -1126,6 +1126,11 @@ body.is-loading #banner .content {
     color: black;
 }
 
+#one h1 {
+    color: black;
+    text-align: center;
+}
+
 #two {
     background-color: white;
 }
