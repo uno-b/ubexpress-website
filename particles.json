@@ -1,0 +1,23 @@
+{
+    "particles": {
+        "number": {
+            "value": 100
+        },
+        "opacity": {
+            "random": true
+        },
+        "size": {
+            "value": 6
+        },
+        "line-linked": {
+            "opacity": 0.1,
+            "width": 1
+        },
+        "move": {
+            "speed": 1
+        },
+        "color": {
+            "value": "#008080"
+        }
+    }
+}
